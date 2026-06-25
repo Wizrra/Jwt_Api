@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+9*5^#^xs5$_p7t34vkfz%6y+%#+28o2b8##*&%t-k883bty&%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.leapcell.dev']
 
 
 # Application definition
